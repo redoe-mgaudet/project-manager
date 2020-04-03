@@ -6,6 +6,7 @@ WSL Setup - https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2
 Vue.js Tutorial - https://vuejs.org/v2/guide/
 Vuetify Tutorial - https://vuetifyjs.com/en/introduction/why-vuetify/
 Node.js Tutorials - https://www.w3schools.com/nodejs/default.asp
+SQLite3 Tutorial - https://www.sqlitetutorial.net/
 
 ```
 
