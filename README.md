@@ -1,5 +1,14 @@
 # proj_manager
 
+## Resources Used for Development
+```
+https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2
+https://vuejs.org/v2/guide/
+https://vuetifyjs.com/en/introduction/why-vuetify/
+https://www.w3schools.com/nodejs/default.asp
+
+```
+
 ## Project setup
 ```
 npm install
